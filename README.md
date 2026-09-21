@@ -6,7 +6,8 @@
 [![Live App](https://img.shields.io/badge/Live%20Demo-LastMile%20Link-22c55e?style=for-the-badge&logo=googlecloud&logoColor=white)](https://ais-pre-3mkh33rx2lummdw5rxo4q6-863038884571.asia-southeast1.run.app)
 [![Google AI Studio](https://img.shields.io/badge/Powered%20By-Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.studio)
 
-🔗 **Published App URL:** [https://ais-pre-3mkh33rx2lummdw5rxo4q6-863038884571.asia-southeast1.run.app](https://ais-pre-3mkh33rx2lummdw5rxo4q6-863038884571.asia-southeast1.run.app)
+🔗 **Published App URL:** 
+https://lastmile-link.ai.studio
 
 ---
 
