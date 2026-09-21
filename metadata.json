@@ -1,0 +1,10 @@
+{
+  "name": "LastMile Link",
+  "description": "Offline, AI-prioritized health data relay for connectivity dead zones, enabling frontline workers to transmit critical triage data phone-to-phone via BLE mesh.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
